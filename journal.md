@@ -4,7 +4,7 @@
 
 
 
-# 02/24/22 - 03/24/22: DataSet Research and Approach
+# 02/24/22 - 03/03/22: DataSet Research and Approach
 
 
 #### Hybrid architecture:
@@ -43,7 +43,7 @@
 * Maybe aslo topographical data (soil, elevation , etc)--> idk about this though
 
 ## CHALLENGES: 
-    main challenge rn is the data propcessing. We need to finalized on an area and then temporally align the satellite observations with tree looss/gain data to create consistent time series. 
+* main challenge rn is the data propcessing. We need to finalized on an area and then temporally align the satellite observations with tree looss/gain data to create consistent time series. 
 
 ## Related Works
 
