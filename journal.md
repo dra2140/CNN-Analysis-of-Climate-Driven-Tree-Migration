@@ -109,3 +109,10 @@ Lang et al. (2022) – CNN-based global tree height mapping
     https://drive.google.com/drive/folders/1fmgbmX2hNKR8DXfa2Wmc7HPwY53_3i6j?usp=drive_link
 
 * CNN for tree classfication: 
+
+
+
+## NOTE: https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=3612&context=etd
+* very useful paper, on forcasting and modeling the spruce tree in main --> added the spruce tree to our tree species data
+
+

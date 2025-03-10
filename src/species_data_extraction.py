@@ -11,7 +11,8 @@ target_species = [
     "Abies balsamea",     # Balsam Fir
     "Acer rubrum",        # Red Maple
     "Tsuga canadensis",   # Eastern Hemlock
-    "Betula papyrifera"   # Paper Birch
+    "Betula papyrifera",   # Paper Birch
+    "Picea abies"          # Spruce fir 
 ]
 
 # define to maine loc
