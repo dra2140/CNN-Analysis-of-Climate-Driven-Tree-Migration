@@ -45,7 +45,7 @@
 ## CHALLENGES: 
 * main challenge rn is the data propcessing. We need to finalized on an area and then temporally align the satellite observations with tree looss/gain data to create consistent time series. 
 
-## Related Works
+## Related Works (Added by Ben, just transfered it into the jounral from the doc!)
 
 https://www.sciencedirect.com/science/article/pii/S0924271620303488
 
@@ -64,21 +64,21 @@ Lang et al. (2022) – CNN-based global tree height mapping
 # 03/03/25 - 03/10/25: Obtaining and Processing Tree Data and Satellite Data
 
 ## Data Collection: 
-- Collected data from Northern Maine for now --> tentativley pciked this are because there specific instances where we see evidence of tree migration of the most in the northeast (Maine and Canada):
+- Collected data from Northern Maine for now --> tentativley picked this are because there specific instances where we see evidence of tree migration of the most in the northeast (Maine and Canada):
     * https://emergencemagazine.org/feature/they-carry-us-with-them/
     * https://www.bangordailynews.com/2024/06/17/homestead/homestead-environment/maine-preparing-for-future-without-iconic-pines-joam40zk0w/#:~:text=Researchers%20across%20the%20state%20have,forests%20functioning%20amid%20climate%20change
 - Downloaded data with in time frame 2000-2021, as that's whats avaible in the more recently updated Hanset dataset --> may downsample the data later
     
 
 ### Lansat Satellite data:
-* Configured Google Earth Engine script to extract apprpriate Landsat time series data b/n 2000-202: Landsat 5 for 2000-2011, Landsat 7 for 2012, and Landsat 8 for 2013-2021
+* Configured Google Earth Engine script to extract apprpriate Landsat time series data b/n 2000-2021: Landsat 5 for 2000-2011, Landsat 7 for 2012, and Landsat 8 for 2013-2021
 * Filtered images with < 50% cloud cover for better image quality and created median composites for each year to minimize seasonal variations and cloud effects --> resulted in 22 annual snapshots spanning 2000-2021 and then we configured batch export tasks to save all 22 annual composites to Google Drive (30m resolution): https://drive.google.com/drive/folders/1hbkrBB_EEtaLryNrM5qSFJAWw4NotvYg?usp=sharing
 
-* Also included key vegetation indices (like NDVI, NBR, but tbh may not factor this in as model inputs as well)--> was thinking it might be helpful for detecting subtler changes in vegetation health/density that might indicate species shifts. We also visualized our data to chekc out the quality and coverage.
+* Also included key vegetation indices (like NDVI, NBR, but tbh may not need to factor these in as model inputs)--> was thinking it might be helpful for detecting subtler changes in vegetation health/density that might indicate species shifts. We also visualized our data to check out the quality and coverage.
 
 ### Hanset Forest change data:
 * We intergrated the tree gain/loss data from the Hansen Global Forest Change dataset (2000-2021). Created a forest mask identifying regions with >30% tree cover in the baseline year to focus our analysis on relevant forested areas --> filtering out noise 
-* ensured spatial adn termporal alignment by using the same study area boundaries and dates, maintained consistent 30m resolution across both datasets and added annual loss bands to each Landsat composite for direct correlation
+* Ensured spatial and termporal alignment by using the same study area boundaries and dates, maintained consistent 30m resolution across both datasets and added annual loss bands to each Landsat composite for direct correlation
 
 
 ### Tree species data:
@@ -103,3 +103,9 @@ Lang et al. (2022) – CNN-based global tree height mapping
 
 
 
+
+#3/10/25 - 3/17/25:
+* Exported climate data the temporally and gerogrpahically aligns with each the corresponding Lansat composites: 
+    https://drive.google.com/drive/folders/1fmgbmX2hNKR8DXfa2Wmc7HPwY53_3i6j?usp=drive_link
+
+* CNN for tree classfication: 
