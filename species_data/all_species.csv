@@ -1,0 +1,487 @@
+scientificName,decimalLongitude,decimalLatitude,year,month,day,basisOfRecord,species
+Pinus strobus L.,-68.203147,44.555107,2021,1,5,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-70.16011,44.520921,2021,1,10,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-70.15583,44.666738,2021,1,21,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.237019,46.072198,2021,3,4,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.666415,44.91266,2021,3,10,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-70.148889,44.678617,2021,3,31,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.134132,44.513539,2021,4,11,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.045167,44.800372,2021,4,10,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.620042,46.079464,2021,5,27,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.501847,46.086558,2021,5,27,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.19075,46.847275,2021,5,10,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.728295,44.86655,2021,5,19,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-70.159693,45.109769,2021,5,27,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.059997,46.357881,2021,6,28,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.592492,45.934128,2021,6,17,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-70.143669,44.671305,2021,6,20,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.59766,46.952703,2021,6,13,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.08899,44.759208,2021,6,30,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.696975,45.927872,2021,7,29,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.620506,46.080539,2021,7,27,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.975892,44.743845,2021,7,4,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.171939,45.072059,2021,7,19,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.002369,45.155517,2021,7,22,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.986256,45.302435,2021,7,27,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.964765,45.831003,2021,7,31,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.087591,44.628404,2021,8,8,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.212289,45.277991,2021,8,12,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.552737,45.344759,2021,8,14,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.134169,44.51384,2021,8,15,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.414625,45.376373,2021,8,26,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.444455,44.678425,2021,8,27,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.414625,45.376373,2021,8,26,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.727424,44.73872,2021,8,31,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.619745,45.86343,2021,8,31,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-67.519181,44.759675,2021,9,28,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.623484,44.611889,2021,9,7,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-70.237076,44.59251,2021,9,12,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.668126,44.908747,2021,9,18,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.765633,44.82698,2021,9,27,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.295819,44.507772,2021,10,5,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.548163,45.618187,2021,10,7,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.886538,45.824876,2021,10,2,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.134275,44.51385,2021,10,31,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.728988,44.866161,2021,11,8,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.656705,44.902866,2021,11,17,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.834586,44.663583,2021,11,14,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.587356,46.025973,2020,2,24,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.178354,44.684275,2020,4,4,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-69.642625,44.543581,2020,4,16,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.232743,44.535644,2020,4,23,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-70.44856,45.142475,2020,5,4,HUMAN_OBSERVATION,Pinus strobus
+Pinus strobus L.,-68.778372,44.830187,2020,5,6,HUMAN_OBSERVATION,Pinus strobus
+Abies balsamea (L.) Mill.,-68.203147,44.555107,2021,1,5,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-70.159595,44.520981,2021,1,10,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.666135,44.906015,2021,3,10,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.669594,44.914125,2021,3,10,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.045555,44.801025,2021,4,10,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.432941,46.015903,2021,5,19,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.443608,45.778538,2021,5,20,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.004539,46.671631,2021,5,11,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.561305,45.573182,2021,6,14,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-67.96191,46.098289,2021,6,16,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.477967,46.108536,2021,6,11,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-67.831062,46.092797,2021,6,15,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-70.081314,44.6725,2021,6,19,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.600722,46.941992,2021,6,14,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.088411,44.759271,2021,6,30,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.912772,45.902213,2021,7,15,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.911978,45.915087,2021,7,15,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.077645,45.974966,2021,7,9,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.852297,46.097906,2021,8,1,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.060637,44.609171,2021,8,10,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.552961,45.344278,2021,8,14,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.50191,45.478882,2021,8,8,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.501909,45.468281,2021,8,9,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea var. balsamea,-69.414625,45.376373,2021,8,26,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.661186,44.90794,2021,9,18,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.666556,44.905922,2021,9,19,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-70.362197,45.090461,2021,9,26,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.961635,45.907932,2021,10,12,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.548837,45.6174,2021,10,7,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.892521,45.827732,2021,10,2,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.295855,44.507974,2021,10,7,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.999687,45.887447,2021,10,12,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.959439,45.908867,2021,10,12,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.41338,45.378346,2021,10,15,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.216665,45.318291,2021,10,15,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.711511,44.908692,2021,11,19,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.134096,44.513786,2021,12,12,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.236021,46.052659,2020,2,23,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.39992,46.061989,2020,2,24,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.45758,46.363577,2020,2,26,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.177935,44.684311,2020,4,4,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.089373,45.12451,2020,4,23,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.090361,45.1248,2020,4,24,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.090097,45.108004,2020,4,24,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.076307,45.121792,2020,4,25,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.1576,44.550592,2020,6,18,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.163505,44.558425,2020,6,18,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.716467,45.700227,2020,7,1,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.223427,45.57677,2020,7,2,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.535652,45.492709,2020,7,3,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.014778,45.440113,2020,7,7,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.520752,45.489884,2020,7,14,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.710876,45.484436,2020,7,20,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.512253,45.487843,2020,8,4,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.530955,45.493899,2020,8,4,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.52909,45.494611,2020,8,5,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.531118,45.494116,2020,8,7,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.805358,45.650716,2020,8,16,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.539103,45.75625,2020,8,8,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.533073,45.758439,2020,8,8,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.532289,45.758422,2020,8,8,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.967945,44.618803,2020,8,15,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.590748,45.526012,2020,8,9,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.197278,46.935628,2020,8,13,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.819297,44.83073,2020,9,27,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.247483,45.554967,2020,9,28,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.370575,45.415822,2020,9,29,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.254647,45.456592,2020,9,29,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-70.287605,45.146886,2020,10,5,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-70.337505,45.186938,2020,10,11,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-70.223511,45.137133,2020,10,4,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-70.072997,45.205792,2020,10,4,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-70.485581,44.9516,2020,10,9,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.412006,45.366913,2020,10,14,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.410959,45.367696,2020,10,14,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.483892,44.530638,2020,10,16,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-70.173195,44.6463,2020,12,30,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.320532,45.674602,2019,2,17,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-67.898152,46.367742,2019,3,1,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.844233,44.74219,2019,4,22,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.331442,44.602928,2019,5,28,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-70.354905,44.957205,2019,6,13,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-70.26216,45.181215,2019,6,21,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.105896,44.557153,2019,6,27,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.719866,45.407048,2019,6,30,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-70.342339,44.726164,2019,7,18,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-69.56497,45.283878,2019,7,18,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.897623,45.906281,2019,7,20,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.197196,44.501217,2019,8,7,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.897465,45.906189,2019,8,11,HUMAN_OBSERVATION,Abies balsamea
+Abies balsamea (L.) Mill.,-68.860358,45.920329,2019,8,11,HUMAN_OBSERVATION,Abies balsamea
+Acer rubrum L.,-70.083769,44.670803,2021,6,17,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.285103,45.260583,2021,6,24,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.582876,46.946362,2021,6,15,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.726538,44.867387,2021,7,1,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.870238,45.913147,2021,7,15,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.72663,44.868472,2021,7,19,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.734047,44.736778,2021,7,24,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-67.826401,46.820545,2021,7,25,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.180172,45.205727,2021,7,17,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.000666,45.049639,2021,7,23,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.555987,45.220075,2021,7,28,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.555987,45.220075,2021,7,28,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.964798,45.830996,2021,7,31,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.088699,44.626998,2021,8,8,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.536925,45.492686,2021,8,8,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.534693,45.493127,2021,8,8,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.558801,45.480516,2021,8,10,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.837714,45.297094,2021,8,17,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.444458,44.678455,2021,8,27,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.583663,45.267551,2021,8,27,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-70.072411,45.206755,2021,9,19,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.76503,44.82727,2021,9,27,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-70.146836,44.675197,2021,9,26,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.414733,45.376309,2021,10,15,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.547845,45.618247,2021,10,7,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.886472,45.824874,2021,10,2,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.890446,45.826804,2021,10,2,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.295609,44.507876,2021,10,6,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.637917,44.946146,2021,10,10,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.639127,44.94572,2021,10,10,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.689965,44.905077,2021,10,17,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.41338,45.378346,2021,10,15,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.803665,44.839554,2021,10,31,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.700793,44.921894,2021,11,9,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-67.972014,44.504441,2020,4,23,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.232743,44.535644,2020,4,23,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.764533,44.825206,2020,4,24,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.449981,46.13528,2020,5,8,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.755552,44.876532,2020,5,4,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.778899,44.830593,2020,5,6,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.654643,44.553859,2020,5,2,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.641142,44.587536,2020,5,31,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.600875,44.808575,2020,7,2,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.600993,44.808591,2020,7,2,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.687468,45.475739,2020,7,2,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.535652,45.492709,2020,7,3,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.807178,45.650855,2020,7,3,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.600843,44.808427,2020,7,7,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.600918,44.808469,2020,7,7,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.600928,44.808476,2020,7,15,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.531116,45.494048,2020,8,4,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.474835,45.505328,2020,8,6,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.473611,45.516117,2020,8,6,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-70.147137,44.68027,2020,8,16,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.531196,45.494225,2020,8,7,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.773016,44.616906,2020,8,17,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.542795,45.486963,2020,8,9,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.158103,46.941675,2020,8,13,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.766082,44.796779,2020,8,26,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.243449,46.194674,2020,8,7,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.23807,46.789819,2020,8,11,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.134243,46.950054,2020,8,13,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-68.580903,46.099388,2020,9,22,HUMAN_OBSERVATION,Acer rubrum
+Acer rubrum L.,-69.889571,44.523141,2020,9,11,HUMAN_OBSERVATION,Acer rubrum
+Tsuga canadensis (L.) Carrière,-70.147147,44.679767,2021,1,3,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.15988,44.520879,2021,1,10,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.156598,44.667371,2021,1,24,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-67.57055,44.828965,2021,1,25,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.148297,44.67818,2021,3,31,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.147897,44.677851,2021,3,31,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.148581,44.678477,2021,3,31,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.148811,44.67868,2021,3,31,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.14835,44.678161,2021,4,6,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.43967,44.676493,2021,5,30,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.694069,45.926361,2021,5,24,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.059014,46.356911,2021,6,28,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.544036,45.859681,2021,6,9,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.252782,44.506174,2021,6,12,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.291917,45.264305,2021,6,24,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.285422,45.26125,2021,6,24,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.888887,44.783345,2021,6,25,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.146378,44.666237,2021,6,19,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.090582,44.759573,2021,7,1,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.976508,44.743337,2021,7,4,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.831746,44.500645,2021,7,21,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.734383,44.73679,2021,7,24,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.978044,45.791621,2021,7,31,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.892797,44.684954,2021,7,31,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.679764,44.588664,2021,8,19,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.088686,44.626705,2021,8,8,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.50228,45.479852,2021,8,8,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.772409,44.528924,2021,8,17,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.444516,44.678326,2021,8,27,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.112579,44.785904,2021,9,12,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.662295,44.903459,2021,9,18,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.665341,44.896613,2021,9,18,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.548155,45.618187,2021,10,7,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.67688,44.902395,2021,10,14,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.757081,44.823942,2021,11,26,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.36997,45.968536,2021,11,25,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.090361,45.1248,2020,4,24,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.232743,44.535644,2020,4,23,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.232743,44.535644,2020,4,23,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.234345,44.594395,2020,4,25,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.652634,44.955583,2020,5,5,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.765789,44.966497,2020,5,12,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.046714,44.550419,2020,5,21,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.764431,44.85141,2020,6,28,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.680733,44.588914,2020,7,30,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.644883,44.538947,2020,7,20,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.535652,45.492709,2020,7,3,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.521137,45.489779,2020,7,14,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.562283,44.620365,2020,7,19,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.512405,45.488353,2020,8,3,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.145707,44.665287,2020,8,12,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.530971,45.494143,2020,8,4,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.529286,45.494949,2020,8,5,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.146743,44.678497,2020,8,16,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.146911,44.679414,2020,8,16,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.772935,44.616854,2020,8,16,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.545584,45.755374,2020,8,8,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.590735,45.525999,2020,8,9,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.590715,45.528564,2020,8,9,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.592516,44.581571,2020,8,22,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.112686,44.7452,2020,8,30,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.145547,44.66528,2020,9,1,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.146364,44.666269,2020,9,9,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.148703,44.675554,2020,9,16,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.158088,44.669306,2020,9,16,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.889429,44.523089,2020,9,25,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.515258,45.588262,2020,9,30,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-69.9198,44.574495,2020,9,3,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.146661,44.677945,2020,9,8,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.147849,44.673448,2020,10,14,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.148554,44.674221,2020,10,14,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-68.477844,44.528047,2020,10,25,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.14696,44.677887,2020,10,25,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-70.144867,44.66267,2020,10,29,HUMAN_OBSERVATION,Tsuga canadensis
+Tsuga canadensis (L.) Carrière,-67.808123,45.190914,2020,11,3,HUMAN_OBSERVATION,Tsuga canadensis
+Betula papyrifera Marshall,-70.162453,44.52068,2021,1,10,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.636587,44.556207,2021,1,11,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.044822,44.800403,2021,4,10,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.263345,44.856638,2021,5,5,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.073714,45.978053,2021,7,11,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.819213,45.476558,2021,7,18,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.01448,45.32148,2021,7,19,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.193763,45.154482,2021,7,24,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.727703,44.738466,2021,8,2,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.50175,45.479049,2021,8,8,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.927353,44.808919,2021,9,20,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.444099,44.624853,2021,10,17,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.886315,45.824796,2021,10,2,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.099403,45.992801,2020,2,23,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.399875,46.061957,2020,2,24,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.489469,46.017724,2020,2,24,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.089732,45.124593,2020,4,23,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.506215,44.567608,2020,6,4,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.91207,45.642048,2020,7,5,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.912501,45.642021,2020,7,5,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-67.790444,44.546217,2020,7,12,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.531014,45.494231,2020,8,4,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.542165,45.757072,2020,8,8,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.529464,44.547349,2020,8,25,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-70.145683,44.665742,2020,9,1,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.126792,45.616122,2020,9,28,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.380042,45.4171,2020,9,29,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-70.14648,44.674522,2020,10,14,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-70.1475,44.679303,2020,10,14,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.771226,44.801613,2019,1,4,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.320532,45.674602,2019,2,17,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.101526,46.092757,2019,2,27,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.371407,46.073813,2019,2,28,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-67.864589,46.306609,2019,3,1,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.331694,44.603499,2019,4,18,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.156678,45.037381,2019,4,28,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-70.355645,44.963745,2019,6,13,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.339004,45.489366,2019,7,5,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.661122,44.903054,2019,9,25,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.659233,44.903042,2019,9,25,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-70.416813,44.817692,2019,11,4,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-70.416813,44.817692,2019,11,5,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-70.416813,44.817692,2019,11,5,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.17991,44.684476,2018,1,21,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.270029,46.01332,2018,2,26,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.65813,44.558913,2018,2,17,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.880938,44.579865,2018,4,29,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.880938,44.579865,2018,4,29,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.43967,44.563392,2018,5,8,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.447661,44.5692,2018,5,8,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-67.939629,44.870392,2018,6,12,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.883955,45.819918,2018,7,16,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.352855,44.536232,2018,8,1,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.594472,47.244637,2017,8,31,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.074435,44.592133,2017,8,3,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.076216,44.591835,2017,8,6,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-67.662135,44.929461,2016,7,23,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.800362,46.122945,2016,9,13,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.631712,44.552011,2016,9,22,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.663795,44.562905,2016,9,20,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.658076,44.562576,2016,10,17,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.741176,44.873937,2016,10,12,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.662025,44.5662,2016,10,30,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.662261,44.559739,2016,10,20,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.783321,44.989918,2016,11,16,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.635834,44.581421,2016,11,17,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.662239,44.906914,2016,11,14,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.664875,44.562894,2016,11,8,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.660423,44.563536,2016,11,8,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.728956,44.866158,2016,12,4,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.658406,44.562435,2016,12,13,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.658406,44.562435,2016,12,13,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.658406,44.562435,2016,12,13,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.658406,44.562435,2016,12,13,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.658878,44.562236,2016,12,13,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.59408,47.24911,2014,9,28,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-68.221111,44.519655,2014,10,13,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-69.237213,45.177091,2011,8,6,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-70.28033,45.14691,2009,8,21,PRESERVED_SPECIMEN,Betula papyrifera
+Betula papyrifera Marshall,-70.400389,45.142989,2008,7,19,PRESERVED_SPECIMEN,Betula papyrifera
+Betula papyrifera Marshall,-70.337078,45.109849,2008,7,18,PRESERVED_SPECIMEN,Betula papyrifera
+Betula papyrifera Marshall,-70.337078,45.109849,2008,7,18,PRESERVED_SPECIMEN,Betula papyrifera
+Betula papyrifera Marshall,-70.416813,44.817692,2007,11,12,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-70.416813,44.817692,2007,11,12,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-70.416813,44.817692,2006,11,30,HUMAN_OBSERVATION,Betula papyrifera
+Betula papyrifera Marshall,-70.135988,45.137368,2001,1,16,HUMAN_OBSERVATION,Betula papyrifera
+Picea mariana (Mill.) Britton et al.,-69.442847,45.775892,2021,5,20,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-68.723342,44.86935,2021,5,19,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-68.72628,44.86948,2021,5,19,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-69.572783,45.978061,2021,6,11,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-68.723463,44.870255,2021,6,12,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-68.725813,44.86995,2021,7,19,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-68.851302,45.919455,2021,10,14,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-68.725175,44.8708,2021,11,8,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-68.724292,44.868808,2021,11,11,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-69.83116,45.282071,2020,6,28,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-70.485978,44.93572,2020,10,4,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-70.073014,45.205894,2020,10,4,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-70.331017,45.033614,2020,10,8,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-70.487542,44.950863,2019,6,9,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-69.062594,46.010439,2019,6,21,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-68.724249,44.870656,2019,10,1,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-68.724442,44.869203,2019,10,2,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-67.81041,44.608803,2018,7,24,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-68.726812,44.868138,2018,8,3,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-68.135467,46.996467,2018,8,12,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-68.740755,44.87049,2017,8,14,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-69.445469,45.253783,2016,8,5,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-69.649628,44.502552,2016,9,22,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-69.886997,44.526454,2015,7,31,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-68.725906,44.868118,2013,6,12,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-68.306548,45.327432,2013,7,7,HUMAN_OBSERVATION,Picea mariana
+Picea mariana (Mill.) Britton et al.,-70.27605,45.14675,2009,8,22,PRESERVED_SPECIMEN,Picea mariana
+Picea mariana (Mill.) Britton et al.,-67.61206,44.56014,2006,10,21,PRESERVED_SPECIMEN,Picea mariana
+Picea mariana (Mill.) Britton et al.,-67.61206,44.56014,2006,10,21,PRESERVED_SPECIMEN,Picea mariana
+Picea mariana (Mill.) Britton et al.,-67.8,45.65,2000,8,29,PRESERVED_SPECIMEN,Picea mariana
+Picea mariana (Mill.) Britton et al.,-67.8,45.65,2000,8,29,PRESERVED_SPECIMEN,Picea mariana
+Picea mariana (Mill.) Britton et al.,-67.8,45.65,2000,8,29,PRESERVED_SPECIMEN,Picea mariana
+Betula alleghaniensis Britton,-70.159589,44.520899,2021,1,10,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.230103,44.821563,2021,1,19,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.866724,44.918098,2021,3,31,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.148803,44.678662,2021,3,31,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.147625,44.6633,2021,3,31,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.045717,44.80143,2021,4,10,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.638978,46.090306,2021,5,30,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.058429,46.361083,2021,6,28,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.054328,46.3635,2021,6,28,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.441864,45.764422,2021,6,3,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.732162,45.992325,2021,7,15,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.732192,45.991608,2021,7,15,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.360778,45.772761,2021,7,5,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.041554,45.994685,2021,7,1,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.081392,44.717503,2021,7,12,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.555987,45.220075,2021,7,29,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.088666,44.627438,2021,8,8,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.304047,44.771042,2021,8,21,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.454658,44.676267,2021,8,22,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.926615,44.809095,2021,9,20,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.721516,44.733527,2021,9,26,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.672272,44.897233,2021,9,12,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.573616,44.795033,2021,9,26,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-67.77292,44.895738,2021,10,27,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.340876,44.654771,2021,10,17,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.374986,46.322916,2021,10,3,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.357437,44.865719,2021,10,1,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.548683,45.619287,2021,10,7,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.676788,44.90217,2021,10,14,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.09938,45.992762,2020,2,23,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.314689,46.05876,2020,2,24,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.933061,44.561222,2020,4,5,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.090361,45.1248,2020,4,24,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.641188,44.587512,2020,5,31,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.641022,44.586997,2020,5,31,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.535652,45.492709,2020,7,3,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.535652,45.492709,2020,7,3,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.521504,45.48999,2020,7,14,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.510917,45.489267,2020,8,3,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-67.677684,44.984931,2020,8,9,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.531798,45.496081,2020,8,5,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.530444,45.49586,2020,8,5,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.531173,45.494092,2020,8,7,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.545275,45.482955,2020,8,9,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.773006,44.616938,2020,8,21,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.243011,46.194823,2020,8,7,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.243169,46.194894,2020,8,6,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.150452,44.673918,2020,9,22,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.148425,44.675125,2020,9,22,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.148929,44.674279,2020,10,14,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.148349,44.673627,2020,10,14,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.799164,45.258669,2020,10,3,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.908465,45.673874,2020,10,19,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.723105,45.209675,2020,11,6,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.665537,44.908763,2020,12,6,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.217664,46.108342,2019,2,25,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.066176,45.976625,2019,3,1,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.35572,44.963795,2019,6,13,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.10696,44.560056,2019,6,27,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.43199,45.525676,2019,8,17,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.333103,44.612159,2019,8,7,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.660825,44.903039,2019,9,25,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.416813,44.817692,2019,11,4,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.416813,44.817692,2019,11,5,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.145578,44.665517,2019,11,20,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.194222,45.887613,2019,11,2,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.880938,44.579865,2018,4,29,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.658498,44.562876,2018,8,2,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.714355,44.553332,2018,10,16,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.591108,47.23605,2017,9,7,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.732816,44.75416,2016,5,19,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.104813,44.626768,2016,6,30,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.057132,44.610092,2016,8,2,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.653065,44.559453,2016,10,23,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.652824,44.559463,2016,10,23,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.782642,44.990686,2016,11,16,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.723946,44.738259,2016,11,13,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-69.664827,44.562821,2016,11,8,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.0889,44.6286,2010,6,17,PRESERVED_SPECIMEN,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.416813,44.817692,2007,11,8,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.416813,44.817692,2006,11,17,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.0569,44.6097,2002,6,25,PRESERVED_SPECIMEN,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.05,44.6167,2002,6,25,PRESERVED_SPECIMEN,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.0614,44.6164,2002,6,25,PRESERVED_SPECIMEN,Betula alleghaniensis
+Betula alleghaniensis Britton,-70.135988,45.137368,2001,1,16,HUMAN_OBSERVATION,Betula alleghaniensis
+Betula alleghaniensis Britton,-68.284444,44.859167,2000,7,14,PRESERVED_SPECIMEN,Betula alleghaniensis

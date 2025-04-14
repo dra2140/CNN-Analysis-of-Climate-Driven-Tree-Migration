@@ -1,0 +1,42 @@
+# Large data files
+src/all_trees_gbif.csv
+src/hansen_forest_data.tif
+src/filtered_trees_gbif.csv
+
+# Model files
+src/model_v1/rf_model.pkl
+
+# Climate data files
+src/data/prism_climate_*.tif
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo 
