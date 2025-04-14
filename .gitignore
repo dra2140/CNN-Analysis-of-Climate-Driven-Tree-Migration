@@ -1,13 +1,8 @@
 # Large data files
 src/all_trees_gbif.csv
-src/hansen_forest_data.tif
 src/filtered_trees_gbif.csv
-
-# Model files
-src/model_v1/rf_model.pkl
-
-# Climate data files
-src/data/prism_climate_*.tif
+src/hansen_forest_data.tif
+*.tif
 
 # Python
 __pycache__/
@@ -39,4 +34,13 @@ ENV/
 .idea/
 .vscode/
 *.swp
-*.swo 
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 

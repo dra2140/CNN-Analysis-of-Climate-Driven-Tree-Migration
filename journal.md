@@ -116,3 +116,42 @@ Lang et al. (2022) – CNN-based global tree height mapping
 * very useful paper, on forcasting and modeling the spruce tree in main --> added the spruce tree to our tree species data
 
 
+* this was a  slow week for me, got covid and bacterail infection so didn't make much progress at all
+* started to filter and divide the data into training/test/splits for CNN model training but didn't get anything to work 
+
+
+
+# 3/17/25 - 3/24/25
+* Switched to Sential data for better resolution since I wasn't able to extract many specrtal signatures and pixels successfully from the Landsat data (experimented with different buffer sizes to ensure). Another issue I was having with the Lansata satellite, is that many of the observed tree points apparently weren't within the range of the images, which was odd as both the satellite image data and the GBIF data were exctracted usuign the same locaiton coordinates. The Sentinal-2 data is from 2018-2021, extracted about 300 images total of the trees (all 5) for training (which is really very little) implemented the CNN and a RF models-->sismialr resulst with the training accruacy in arounf 40% and test accuray aroun 25-30%. The confusion matrix shows how many of the trees are missidentified as one another, this makes sense given the training size and and fact that most of the spectral signatures for these trees are very similar to one another. 
+
+Several issues with these first model runs for classification:
+- Not enough tree observation samples to start with, apparently when using GBIF API, we are limited to retriving only 300 samples total, not per species, even though I set the limit at 10,000. --> solution: download the psecies data directly from the GBIF database, for example we can use species search to get: https://www.gbif.org/occurrence/search?q=abies%20balsamea&basis_of_record=HUMAN_OBSERVATION&country=US&dataset_key=50c9509d-22c7-4a22-a47d-8c48425ef4a7&has_geospatial_issue=false&month=9&month=10&year=2015,2023&geometry=POLYGON((-69.25169%2047.44281,-75.44628%2045.32212,-78.86807%2043.00021,-75.47091%2038.54031,-71.10597%2040.19079,-66.62251%2044.04165,-65.84348%2047.51913,-69.25169%2047.44281))&occurrence_status=present 
+
+- I also think we should expand our area of interest from Maine to the wider region in the northeast, so we can ideally get a greater number of samples. 
+
+-Instead of looking at year round composite satellite images, we should perhaps for season specfic (like autumn, as trees are most ditinguable from one another, so we would pick up on more significantly differnt spectral signatures for each tree species making the classification task more straighforward). 
+
+
+
+# 3/24/25 - #04/11/25
+- Did not work on the project for this period, as I had 2 large projects from other classes due and couldn't find the time. 
+
+# 3/30/25 and 04/08/25
+- Met with Ben these days to update him and current state of the project, let him know that we need to look for more tree obseration data for improvent claddification model results. 
+- If classification efforts still produce weak results after expanding the data set and isolating by season, then we can just move forward with a predictive model (LTSM) with the climate data tifs and the observed tree data throughout the past decade (despite there being many gaps in species documenation)
+
+# 04/08/25
+- Met with Ben, to touch base and he added some info into this doc on potetial way to go about the next steps (LTSM/GRU): https://docs.google.com/document/d/1I9abTn2klx-qOxLs4Ww-sLrz439jOuEzr_Qif94T3bU/edit?usp=sharing
+- Ben shared that he found some new data from the USFDA goverment website (Altas data). 
+
+
+# 04/11/25 - Present
+- Started back up on the project, wasn't able find the atlas data that Ben showed me during our meeting, so I just went ahead and continued with the GBIF data.
+- Dowloaded new Sential image tifs from 2018-2921 for Septemeber and October (peak seaons when leaves change colors) via GEE:
+- Expanded the region to greater northeast (sticking to with the US)
+- Downloaded total of ~7000 tree samples for Rad Maple, Balsam Fir, and Yellow Birch. Downsampled from 5 tree species to 3 species that would have distinct colors during Fall season. (still doesn't take into consideration, the tree classfication model idtentiying other similar colored trees) 
+- Bottleneck that I am stuck at, and have been trying to work on, is that with the new dat aI am failign to successfully extract spectral signiatures from this new sallelite image data
+- Will plan to work thoruhg classification on the side for now and proceed to imllemnting a GRU as its a simpler model architecture and then also trying out an LSTM??: 
+    -  tree_migration_gru.py: 2-layer GRU architecture: the first layer with 128 units and return_sequences=True to maintain the temporal information, followed by a second layer with 64 units. Add dropout b/n layers of 0.3 to prevent overfitting. final layers --> dense layer with 32 units and ReLU activation, followed by an output layer with 3 units (one for each species) using softmax activation.
+        - susign adam optimizer for training 
+        - planning for the input data to be shaped as (samples, 6, features) where 6 represents our years (2018-2023) and features include the 10 sentinel2 spectral bands, climate variables, and vegetation indices (NDVI, NBR) 
